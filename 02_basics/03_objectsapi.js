@@ -9,3 +9,12 @@ console.log(teacher);
 const {teacher:mam}=course
 console.log(mam);
 //api
+//json
+// {
+//   "name":"hittu",
+//   "coursename":"english",
+//   "price":"free"
+// }
+[
+    
+]
