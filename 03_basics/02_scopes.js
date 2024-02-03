@@ -13,6 +13,22 @@ function one(){
     two()
 }
 one()
+if(true){
+    const username="vanshhu"
+    if(username=="vanshhu"){
+        const website="mail"
+        console.log(username+website);
+    }
+}
+function addone(num) 
+{
+    return num+1;
+
+}
+addone(5)
+const addtwo=function (num) {
+    return num+2;
+}
 
 
 
